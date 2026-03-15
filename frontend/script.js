@@ -1,4 +1,4 @@
-const API = 'http://localhost:8080/api/students';
+const API = 'https://student-management.onrender.com/api/students';
 
 let editIndex = null;
 let subjectFieldCount = 0;
